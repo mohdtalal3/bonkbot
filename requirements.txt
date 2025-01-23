@@ -1,0 +1,4 @@
+streamlit
+nest-asyncio
+asyncio
+telethon
